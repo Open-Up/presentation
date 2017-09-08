@@ -1,6 +1,6 @@
 # Presentation of OpenUp!
 
-View this presentation [online](https://cdn.rawgit.com/Open-Up/welcome/b2bd4cb2/index.html#/)
+View this presentation [online](https://cdn.rawgit.com/Open-Up/presentation/b68e6dcb/index.html#/)
 
 OpenUp! is an optional program for Bach Khoa students. It is developped in partnership between Linagora and Bach Khoa.
 
